@@ -65,7 +65,7 @@
   flex-grow: 1; /* Allows text to take up remaining space if needed */
 }
 .btn{
-  background-color: cyan;
+  background:linear-gradient(270deg,#ff994f,#fa6d86);
   width: 100%;
 }
 .first-container{
